@@ -6,7 +6,8 @@ using namespace std;
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "Test git class {step 1 }"<< endl;
+    std::cout << "Test git class {step 1 }" << endl;
+    cout << "Test git class {step 2 }" << endl;
 }
 
 
